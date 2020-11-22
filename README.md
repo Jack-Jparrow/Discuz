@@ -22,4 +22,4 @@ DNSPod [https://www.dnspod.cn/](https://www.dnspod.cn/)
 
 Discuz! Q 用户微信群
 
-![DiscuzQ](https://gitee.com/ComsenzDiscuz/DiscuzX/raw/master/discuzq.jpg)
+![DiscuzQ](https://gitee.com/ComsenzDiscuz/DiscuzX/raw/master/helper.jpg)
