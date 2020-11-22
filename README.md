@@ -18,7 +18,9 @@ git remote set-url origin git@gitee.com:discuz/DiscuzX.git
 未来Discuz! Q的源代码，也会在新的地址下发布，请大家保持关注。
 
 Discuz! Q 官方论坛 [https://discuz.chat/)](https://discuz.chat/)
+
 Discuz! X 官方论坛 [https://www.discuz.net/](https://www.discuz.net/)
+
 DNSPod [https://www.dnspod.cn/](https://www.dnspod.cn/)
 
 Discuz! Q 技术支持微信
