@@ -25,4 +25,4 @@ DNSPod [https://www.dnspod.cn/](https://www.dnspod.cn/)
 
 加小助手微信，加入Discuz! Q 官方交流群
 
-![DiscuzQ](https://gitee.com/ComsenzDiscuz/DiscuzX/raw/master/helper.jpeg)
+![DiscuzQ](https://gitee.com/ComsenzDiscuz/DiscuzX/raw/master/helper.png)
