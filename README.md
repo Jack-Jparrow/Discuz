@@ -5,6 +5,7 @@
 请各位Discuz! X的用户和开发者们及时更新地址
 
 对于已经clone源代码到本地的，请使用以下命令来变更地址
+
 HTTPS 协议
 ```bash
 git remote set-url origin https://gitee.com/discuz/DiscuzX.git
