@@ -21,6 +21,6 @@ Discuz! Q 官方论坛 [https://discuz.chat/)](https://discuz.chat/)
 Discuz! X 官方论坛 [https://www.discuz.net/](https://www.discuz.net/)
 DNSPod [https://www.dnspod.cn/](https://www.dnspod.cn/)
 
-Discuz! Q 用户微信群
+Discuz! Q 技术支持微信
 
 ![DiscuzQ](https://gitee.com/ComsenzDiscuz/DiscuzX/raw/master/helper.jpg)
