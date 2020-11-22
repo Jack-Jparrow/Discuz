@@ -23,6 +23,6 @@ Discuz! X 官方论坛 [https://www.discuz.net/](https://www.discuz.net/)
 
 DNSPod [https://www.dnspod.cn/](https://www.dnspod.cn/)
 
-Discuz! Q 技术支持微信
+加小助手微信，加入Discuz! Q 官方交流群
 
 ![DiscuzQ](https://gitee.com/ComsenzDiscuz/DiscuzX/raw/master/helper.jpeg)
